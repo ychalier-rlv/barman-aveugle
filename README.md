@@ -12,4 +12,4 @@ Ce problème a été abordé lors de [l'épisode 6 de Fil d'étincelles](https:/
 
 ## Utilisation
 
-Rendez-vous sur [https://ychalier-rlv.github.io/blind-waiter/](https://ychalier-rlv.github.io/blind-waiter/). Cliquez sur un verre pour le retourner. Cliquer sur le bouton en haut de la page pour tourner le plateau.
+Rendez-vous sur [https://ychalier-rlv.github.io/barman-aveugle/](https://ychalier-rlv.github.io/barman-aveugle/). Cliquez sur un verre pour le retourner. Cliquer sur le bouton en haut de la page pour tourner le plateau.
